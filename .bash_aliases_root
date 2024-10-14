@@ -1,0 +1,5 @@
+alias s="sudo"
+alias n="netstat -antp"
+alias q="exit"
+alias ss="sudo su -"
+alias ll="ls -laFh"
